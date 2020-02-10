@@ -2,7 +2,7 @@ DEVICE_PATH := device/nokia/Deadpool
 BOARD_VENDOR := nokia
 
 # Security patch level
-VENDOR_SECURITY_PATCH := 2019-07-01
+VENDOR_SECURITY_PATCH := 2019-11-05
 
 # HIDL
 DEVICE_MANIFEST_FILE := $(DEVICE_PATH)/manifest.xml
